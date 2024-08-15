@@ -26,8 +26,8 @@ export default function Home() {
 
         <div className={styles.container_vacancy}>
             <h2>Publicadas recentemente</h2>
-            {vacancy_list.map((vacancy) => (
-                <Card vacancy={vacancy}/>
+            {vacancy_list.map((vacancy, index) => (
+                <Card key={index} vacancy={vacancy}/>
             ))}
         </div>
 
