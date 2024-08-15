@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Desenvolvedor Full Stack",
+        "description": "Responsável por desenvolver e manter aplicações web, tanto no front-end quanto no back-end. Isso inclui a implementação de interfaces de usuário dinâmicas e responsivas, integrando-as com APIs e sistemas de back-end robustos. Também deverá garantir a performance e escalabilidade das aplicações.",
+        "remuneration": "R$ 8.000,00 - R$ 12.000,00",
+        "type": "Remoto",
+        "skills": [
+            "JavaScript",
+            "Node.js",
+            "React",
+            "CSS",
+            "SQL"
+        ],
+        "corporation": "Tech Solutions S.A.",
+        "verify": true
+    },
+    {
+        "title": "Analista de Dados",
+        "description": "Análise e interpretação de grandes volumes de dados para gerar insights e apoiar a tomada de decisões estratégicas. Também será responsável por criar dashboards e relatórios que auxiliem na visualização dos dados.",
+        "remuneration": "R$ 7.000,00 - R$ 10.000,00",
+        "type": "Híbrido",
+        "skills": [
+            "Python",
+            "SQL",
+            "Power BI",
+            "Estatística",
+            "Machine Learning"
+        ],
+        "corporation": "Data Insights Ltda.",
+        "verify": false
+    },
+    {
+        "title": "Designer Gráfico",
+        "description": "Criação de layouts e peças gráficas para campanhas publicitárias e redes sociais. Além disso, deverá colaborar com a equipe de marketing para garantir a coerência visual em todas as plataformas.",
+        "remuneration": "R$ 4.000,00 - R$ 6.000,00",
+        "type": "Presencial",
+        "skills": [
+            "Photoshop",
+            "Illustrator",
+            "InDesign",
+            "Criatividade",
+            "Tipografia"
+        ],
+        "corporation": "Agência Criativa"
+    },
+    {
+        "title": "Gerente de Projetos",
+        "description": "Planejamento, execução e acompanhamento de projetos, garantindo o cumprimento de prazos e metas. Será responsável por gerenciar recursos e comunicar-se com stakeholders para assegurar o alinhamento das expectativas.",
+        "remuneration": "R$ 10.000,00 - R$ 15.000,00",
+        "type": "Híbrido",
+        "skills": [
+            "Gestão de Projetos",
+            "Scrum",
+            "Kanban",
+            "Comunicação",
+            "Liderança"
+        ],
+        "corporation": "Inova Consultoria",
+        "verify": true
+    },
+    {
+        "title": "Especialista em Segurança da Informação",
+        "description": "Responsável por proteger as informações e dados da empresa contra acessos não autorizados e ciberataques. Também irá realizar auditorias de segurança e desenvolver políticas de proteção de dados.",
+        "remuneration": "R$ 12.000,00 - R$ 18.000,00",
+        "type": "Remoto",
+        "skills": [
+            "Segurança da Informação",
+            "Firewall",
+            "Criptografia",
+            "Ethical Hacking",
+            "ISO 27001"
+        ],
+        "corporation": "Securitas Tech",
+        "verify": true
+    },
+    {
+        "title": "Analista de Marketing Digital",
+        "description": "Desenvolvimento e execução de estratégias de marketing digital para aumentar a visibilidade da marca. Responsável por monitorar o desempenho das campanhas e ajustar as estratégias conforme necessário.",
+        "remuneration": "R$ 5.000,00 - R$ 8.000,00",
+        "type": "Híbrido",
+        "skills": [
+            "SEO",
+            "Google Ads",
+            "Redes Sociais",
+            "Copywriting",
+            "Analytics"
+        ],
+        "corporation": "MarketPro",
+        "verify": false
+    }
+]

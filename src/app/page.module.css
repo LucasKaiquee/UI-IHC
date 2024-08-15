@@ -1,0 +1,103 @@
+.main {
+  position: relative;
+}
+
+.title {
+  margin: 100px 0 50px 0;
+  padding: 0 8%;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.search {
+  width: 100%;
+  margin: 10px 0 50px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.search_title {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.input {
+  width: 350px;
+  height: 40px;
+  padding-left: 10px;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+.button {
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #1693A5;
+  color: #FFFF;
+  cursor: pointer;
+}
+
+.button:hover {
+  transition: 0.3s;
+  transform: scale(1.05);
+}
+
+.container_vacancy {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.container_vacancy h2{
+  font-size: 1.3rem;
+  margin-bottom: -15px;
+}
+
+.pagination {
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 40px 0;
+}
+
+.pagination_number {
+  width: 30px;
+  height: 30px;
+  background-color: #FFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pagination_number_selected {
+  width: 30px;
+  height: 30px;
+  background-color: #1693A5;
+  color: #FFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.pagination_button {
+  margin: 0;
+  cursor: pointer;
+  user-select: none;
+}

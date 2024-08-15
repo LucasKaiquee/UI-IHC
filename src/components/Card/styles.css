@@ -1,0 +1,85 @@
+.card-container {
+    width: 70%;
+    background-color: #FFFF;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+p {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.corporation {
+    color: #0a9433;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+svg {
+    font-size: 1rem;
+}
+
+.type {
+    background-color: rgba(54, 182, 118, 0.301);
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+.skills-container {
+    display: flex;
+    gap: 20px;
+}
+
+.skill {
+    background-color: #0a9433;
+    color: #FFFF;
+    padding: 5px 10px;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-size: 0.8rem;
+}
+
+h3 {
+    margin: 15px 0;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-color: #1693A5;
+    color: #FFFF;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+article {
+    margin-bottom: 30px;
+}
+  
+button:hover {
+    transition: 0.3s;
+    transform: scale(1.05);
+}
+
+.apllay {
+    background-color: #7c0624;
+    color: #FFFF;
+}
+  
+
