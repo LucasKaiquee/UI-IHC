@@ -43,8 +43,8 @@ export default function Card({vacancy}) {
 
             <h3>Requisitos:</h3>
             <div className="skills-container">
-                {vacancy.skills.map((skill) => (
-                    <p className="skill">{skill}</p>
+                {vacancy.skills.map((skill, index) => (
+                    <p key={index} className="skill">{skill}</p>
                 ))}
             </div>
             
